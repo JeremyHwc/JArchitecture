@@ -1,0 +1,4 @@
+//include ':mvp'
+//include ':mvc'
+include ':mvvm'
+rootProject.name = "JArch"
